@@ -1,0 +1,41 @@
+# Blender MTL File: 'picnic_table.blend'
+# Material Count: 3
+
+newmtl board_ends
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump board_ends_normal.png
+map_Kd board_ends_diff.png
+map_Ks board_ends_spec.png
+map_Ns board_ends_rough.png
+
+newmtl boards_main
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump boards_main_nor_4k.jpg
+map_Kd boards_main_diff_4k.jpg
+map_Ks boards_main_spec_4k.jpg
+map_Ns boards_main_rough_4k.jpg
+
+newmtl bolt_head
+Ns 225.000000
+Ka 0.281818 0.281818 0.281818
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd bolt_head_diff.png
