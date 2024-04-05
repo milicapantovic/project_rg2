@@ -1,4 +1,4 @@
-# Install script for directory: /home/dundusica/projekti/project_rg/libs/imgui
+# Install script for directory: /home/dundusica/projekti/project_rg2/libs/imgui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

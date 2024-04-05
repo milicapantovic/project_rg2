@@ -218,9 +218,9 @@ int main() {
 
     //ucitavamo teksture za parallax mapping
 
-    unsigned int baseTextureDiffuse = loadTexture(FileSystem::getPath("resources/textures/ground_0010_color_4k.jpg").c_str(), true);
-    unsigned int baseTextureNormal = loadTexture(FileSystem::getPath("resources/textures/ground_0010_normal_opengl_4k.png").c_str(), true);
-    unsigned int baseTextureHeight = loadTexture(FileSystem::getPath("resources/textures/ground_0010_height_4k.png").c_str(), true);
+    unsigned int baseTextureDiffuse = loadTexture(FileSystem::getPath("resources/textures/ground_0010_color_2k.jpg").c_str(), true);
+    unsigned int baseTextureNormal = loadTexture(FileSystem::getPath("resources/textures/ground_0010_normal_opengl_2k.png").c_str(), true);
+    unsigned int baseTextureHeight = loadTexture(FileSystem::getPath("resources/textures/ground_0010_height_2k.png").c_str(), true);
 
     // sejder za parallax mapping
     baseShader.use();
